@@ -4,7 +4,7 @@ Fourier Transform Visualization
 https://www.desmos.com/calculator/um780tph0s
 
 Logic Gate Simulation
-https://www.desmos.com/calculator/dc89ac9930
+https://www.desmos.com/calculator/fk1i7enoer
 
 Turing Machine
 https://www.desmos.com/calculator/791af93ace
