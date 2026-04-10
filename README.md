@@ -16,7 +16,7 @@ Trig Circle Visualization
 https://www.desmos.com/calculator/1qwxgktfkg
 
 Turing Machine
-https://www.desmos.com/calculator/cf7db54abc
+https://www.desmos.com/calculator/791af93ace
 
 Conway's Game of Life
 https://www.desmos.com/calculator/3srdbbiulw
@@ -35,3 +35,12 @@ https://www.desmos.com/calculator/cd9bb79b38
 
 Bubble Sort Algorithm
 https://www.desmos.com/calculator/0d71401743
+
+Pong + Seven-Segment Display
+https://www.desmos.com/calculator/4781a103d6
+
+Checkers
+https://www.desmos.com/calculator/2fc96fc291
+
+3D Point Plotting
+https://www.desmos.com/calculator/0ef8168dbe
